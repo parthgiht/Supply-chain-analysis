@@ -1,6 +1,6 @@
 # Supply-chain-analysis
 ## Overview
-This project involves a comprehensive analysis of supply chain operations, focusing on key performance metrics and insights. By leveraging data analysis and visualization, the project aims to provide actionable insights into pricing strategies, product performance, cost distribution, and quality control across the supply chain.
+This project involves a comprehensive analysis of supply chain operations, focusing on key performance metrics and insights. By leveraging data analysis and visualization, the project aims to provide actionable insights into pricing strategies, product performance, cost distribution, quality control, and defect rate across the supply chain.
 ## Libraries Used
 The following Python libraries were used to perform data analysis and visualization:
 
