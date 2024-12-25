@@ -7,9 +7,11 @@ The following Python libraries were used to perform data analysis and visualizat
 1. **pandas**: For data manipulation and analysis.
 2. **numpy**: For numerical computations.
 3. **plotly.express**: For interactive visualizations.
-4. **plotly.graph_objects**: For creating custom, advanced plots.
-5. **plotly.io**: For configuring and customizing plotly templates.
-6. **Default template**: plotly_white.
+4. **seaborn** : For creating statistical data visualizations.
+5. **matplotlib** : For basic plotting and visualization.
+6. **plotly.graph_objects**: For creating custom, advanced plots.
+7. **plotly.io**: For configuring and customizing plotly templates.
+8. **Default template**: plotly_white.
 
 ## Enviroment 
 - **Google Colab**: To implement the analysis and visualizations in a cloud-based environment.
